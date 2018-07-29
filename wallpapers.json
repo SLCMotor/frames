@@ -57,6 +57,11 @@
 			"dimensions": "2400 x 1920"
 		},
 		{
+			"name": "orange_gloss",
+			"url": "https://raw.githubusercontent.com/SLCMotor/frames/master/orange_gloss.jpg",
+			"dimensions": "2400 x 1920"
+		},		
+		{
 			"name": "cyan_00",
 			"url": "https://raw.githubusercontent.com/SLCMotor/frames/master/cyan_00.jpg",
 			"dimensions": "2400 x 1920"
