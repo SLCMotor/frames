@@ -93,7 +93,13 @@
             "url": "https://raw.githubusercontent.com/SLCMotor/frames/master/wallpaper_app/winter_15.jpg",
             "thumbUrl": "https://raw.githubusercontent.com/SLCMotor/frames/master/wallpaper_app/winter_15_thumb.jpg",
             "name": "Big Cottonwood"
-          }         
+          },
+          {
+            "author": "SLCMotor",
+            "url": "https://raw.githubusercontent.com/SLCMotor/frames/master/wallpaper_app/winter_16.jpg",
+            "thumbUrl": "https://raw.githubusercontent.com/SLCMotor/frames/master/wallpaper_app/winter_16_thumb.jpg",
+            "name": "Big Cottonwood"
+          }
         ]
       },           
       {
