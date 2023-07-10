@@ -1,6 +1,7 @@
 [
 	{
 		"name": "blue_01",
+		"collections": "Blue",
 		"author": "SLCMotor",
 		"url": "https://raw.githubusercontent.com/SLCMotor/frames/master/blue_01.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SLCMotor/frames/master/blue_01_thumb.jpg",
@@ -9,6 +10,7 @@
 	},
 	{
 		"name": "blue_02",
+		"collections": "Red",		
 		"author": "SLCMotor",
 		"url": "https://raw.githubusercontent.com/SLCMotor/frames/master/blue_02.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SLCMotor/frames/master/blue_02_thumb.jpg",
