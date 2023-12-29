@@ -236,5 +236,12 @@
         "url": "https://raw.githubusercontent.com/SLCMotor/frames/master/wallpaper_app/grand_04.jpg",
         "thumbUrl": "https://raw.githubusercontent.com/SLCMotor/frames/master/wallpaper_app/grand_04_thumb.jpg",
         "name": "Grand Canyon"
+	},
+	{
+        "author": "SLCMotor",
+        "collections": "Yellowstone",
+        "url": "https://raw.githubusercontent.com/SLCMotor/frames/master/wallpaper_app/yellowstone1.jpg",
+        "thumbUrl": "https://raw.githubusercontent.com/SLCMotor/frames/master/wallpaper_app/yellowstone1_thumb.jpg",
+        "name": "Yellowstone"
 	}
 ]
